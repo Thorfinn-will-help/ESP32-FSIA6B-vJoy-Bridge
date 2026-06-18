@@ -25,6 +25,10 @@ This project uses an ESP32 to read iBUS data from a FlySky FS-IA6B receiver and 
 * Windows PC
 
 ---
+## Might need
+* FS-IA6B Pinout Diagram
+* ESP32 Pinout Diagram
+---
 
 ## Wiring
 
@@ -248,5 +252,6 @@ This project uses:
 * pyserial
 * pyvjoy
 * Chatgpt as well (Everything was done by Him)
+
 
 Thanks to the RC community for documenting the FlySky iBUS protocol and helping make low-cost simulator setups possible.
