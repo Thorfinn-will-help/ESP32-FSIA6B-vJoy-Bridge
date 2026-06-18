@@ -254,4 +254,5 @@ This project uses:
 * Chatgpt as well (Everything was done by Him)
 
 
-Thanks to the RC community for documenting the FlySky iBUS protocol and helping make low-cost simulator setups possible.
+Thanks to the RC community for documenting the FlySky iBUS protocol and Thanks for reading. 
+Peace out!!
